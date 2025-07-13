@@ -1,1 +1,2 @@
-idea
+idea;can_be_used_in_work;difficulty;tags;description,idea,can_be_used_in_work,difficulty,tags,description,started_on,completed_on
+,"Develop a reusable 'data profiling' function that summarizes column types, nulls, uniques, etc.",True,3.0,EDA,"A function that shows how the dataframe is made, nulls, uniques, etc.",2025-07-13 14:51:35,2025-07-13 14:52:58
