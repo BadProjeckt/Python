@@ -1,0 +1,21 @@
+idea
+Automate Excel report generation from raw CSVs using pandas + openpyxl
+Build a lightweight anomaly detection system for time series data
+Create a Python script to validate and clean messy Excel sheets with inconsistent headers/types
+Develop a dashboard using Streamlit to visualize key business KPIs from a CSV or API
+Write a parser that converts business logic rules (if-else) into SQL filters dynamically
+Build a CLI tool to compare two datasets and highlight differences (schema or row level)
+Train a simple scikit-learn classifier to predict customer churn based on internal data
+"Construct a forecasting model (ARIMA, Prophet) on sales/operations data with uncertainty intervals"
+Make a correlation heatmap generator from any Excel file input
+Create a script that extracts data from PDFs and normalizes it into a pandas DataFrame
+"Build a SQLite + pandas mini ETL pipeline for staging, cleaning, and reporting"
+Build a simple experiment tracker to log and compare model metrics in CSV/JSON
+"Develop a reusable 'data profiling' function that summarizes column types, nulls, uniques, etc."
+Write a script to auto-generate PowerPoint slides from data summaries using python-pptx
+Use Plotly to build an interactive outlier-inspection tool for numeric columns
+Scrape internal dashboard metrics and log them for offline archival or backup
+Set up logging + exception monitoring for a flaky ETL pipeline in production
+Build a model drift detector to compare current data distribution vs training data
+Create an 'explain my model' script using SHAP values on a tabular classifier
+Automate emailing of weekly insights with embedded charts (HTML + smtplib)
